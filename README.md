@@ -13,7 +13,6 @@ AI coding agents (like Cursor, Windsurf, or Copilot) are incredibly smart, but t
 
 ## 🚀 See it in Action
 
-*(Make sure to upload a `demo.gif` to your repository!)*
 ![yap-less Demo](demo.gif)
 
 ## ⚡ The Problem vs. The Solution
