@@ -1,0 +1,19 @@
+{
+  "name": "yap-less",
+  "version": "1.0.0",
+  "description": "Zero-config 1-click CLI tool to stop AI coding agents from talking too much and force pure code diffs.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "yap-less": "./index.js"
+  },
+  "keywords": [
+    "cursorrules",
+    "ai",
+    "cli",
+    "developer-tools",
+    "token-saving"
+  ],
+  "author": "",
+  "license": "MIT"
+}
