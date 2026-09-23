@@ -1,6 +1,6 @@
 # 🤫 yap-less
 
-[![npm version](https://badge.fury.io/js/yap-less.svg)](https://badge.fury.io/js/yap-less)
+[![npm version](https://img.shields.io/npm/v/yap-less.svg?color=success)](https://www.npmjs.com/package/yap-less)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Stop burning tokens on agent yap. Get pure code diffs instantly.**
